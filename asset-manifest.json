@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/swagatosen/static/css/main.10682f74.css",
+    "main.js": "/swagatosen/static/js/main.c87d32eb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/swagatosen/static/js/787.1ed0c42c.chunk.js",
+    "static/media/myself.png": "/swagatosen/static/media/myself.e404f392713eac4838b6.png",
+    "static/media/Redwing-Medium.otf": "/swagatosen/static/media/Redwing-Medium.7402d4c764b8807db59b.otf",
+    "static/media/Redwing-Light.otf": "/swagatosen/static/media/Redwing-Light.bda278368d19c572f2f2.otf",
+    "index.html": "/swagatosen/index.html",
+    "static/media/angle-down.svg": "/swagatosen/static/media/angle-down.11e201872eb97a54f0d3.svg",
+    "static/media/triangle.svg": "/swagatosen/static/media/triangle.5172a3481a7112a7a103.svg",
+    "main.10682f74.css.map": "/swagatosen/static/css/main.10682f74.css.map",
+    "main.c87d32eb.js.map": "/swagatosen/static/js/main.c87d32eb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/swagatosen/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10682f74.css",
+    "static/js/main.c87d32eb.js"
+  ]
+}
