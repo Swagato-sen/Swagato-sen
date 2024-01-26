@@ -12,7 +12,6 @@ const Skill = () => {
     let radii;
 
     // If 3D Text Sphere is not showing up after deployment remove the return (i.e, return() =>{}) function from below code
-    return () => {
       const texts = [
         'Wireshark',
         'Cisco Packet Tracer',
@@ -58,7 +57,7 @@ const Skill = () => {
       };
 
       TagCloud(container, texts, options);
-    }
+    
   }, []);
   return (
     <>
