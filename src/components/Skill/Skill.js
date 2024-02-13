@@ -35,7 +35,13 @@ const Skill = () => {
         'Node.js',
         'SQL',
         'LT Spice',
-        'Multisim'
+        'Multisim',
+        'AWS',
+        'Word',
+        'Powerpoint',
+        'Excel',
+        'R',
+        'Power BI'
       ];
 
 
