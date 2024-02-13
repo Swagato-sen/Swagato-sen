@@ -119,13 +119,27 @@ const Skill = () => {
                       <span>Java</span>
                     </li>
                     <li>
-                      <span>Python</span>
-                    </li>
-                    <li>
                       <span>C/C++</span>
                     </li>
                     <li>
-                      <span>Linux</span>
+                      <span>Linux Shell</span>
+                    </li>
+                  </ul>
+                </div>
+                <div className="skill__details">
+                  <h4>Data Analytics</h4>
+                  <ul>
+                    <li>
+                      <span>SQL</span>
+                    </li>
+                    <li>
+                      <span> R</span>
+                    </li>
+                    <li>
+                      <span>Python</span>
+                    </li>
+                    <li>
+                      <span>Power BI</span>
                     </li>
                   </ul>
                 </div>
@@ -194,6 +208,28 @@ const Skill = () => {
                   <ul>
                     <li>
                       <span>Node.js</span>
+                    </li>
+                  </ul>
+                </div>
+                <div className="skill__details">
+                  <h4>Office Tools</h4>
+                  <ul>
+                    <li>
+                      <span>Word</span>
+                    </li>
+                    <li>
+                      <span>Powerpoint</span>
+                    </li>
+                    <li>
+                      <span>Excel</span>
+                    </li>
+                  </ul>
+                </div>
+                <div className="skill__details">
+                  <h4>Cloud Tools</h4>
+                  <ul>
+                    <li>
+                      <span>AWS</span>
                     </li>
                   </ul>
                 </div>
