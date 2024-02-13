@@ -142,7 +142,7 @@ const About = () => {
                   <br />
                   <ul type = "square" color="white">
                     <li>1. CEH v12</li>
-                    <li>2. AWS Cloud practitioner</li>
+                    <li>2. AWS Cloud Practitioner</li>
                     <li>3. Google Cybersecurity </li>
                   </ul>
                 </p>
